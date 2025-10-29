@@ -1,2 +1,2 @@
-hello how are you
-new changes
+Hello, how are you?
+I am just trying out different examples integrating VS code and GitHub
